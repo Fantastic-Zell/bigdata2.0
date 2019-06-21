@@ -1,2 +1,2 @@
 redis-server
-pausee
+pause
